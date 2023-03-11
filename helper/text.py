@@ -8,9 +8,9 @@ Eg:- Telegarph, Channel ID, Image editor etc... """
 ╔════❰ 𝙼𝚄𝙻𝚃𝙸 𝙱𝙾𝚃 ❱═❍
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {bot}
-║┣⪼👦ᴅᴇᴠ 1 : <a href=https://t.me/about_jeol>ᴊᴇᴏʟ</a>
-║┣⪼👨‍💻ᴅᴇᴠ 2 : <a href=https://t.me/mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
-║┣⪼❣️sᴏᴜʀᴄᴇ ᴄᴏᴅ : <a href=https://github.com/Itz-JEOL/TG-MULTI-BOT>ᴛɢ-ᴍᴜʟᴛɪ-ʙᴏᴛ</a>
+║┣⪼👦ᴅᴇᴠ 1 : <a href=https://t.me/sula20062007>🇱 🇦 🇹 🇭 🇪 🇪 🇸 🇭 </a>
+║┣⪼👨‍💻ᴅᴇᴠ 2 : <a href=https://t.me/sula54321>🇧 🇧 </a>
+║┣⪼❣️MAIN CHANNEL: <a href=https://t.me/llathu63035>𝗡𝗧𝗠</a>
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ3</a>
 ║┣⪼📚ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ║┣⪼🗒️ᴠᴇʀsɪᴏɴ : 𝙼𝚄𝙻𝚃𝙸 𝙱𝙾𝚃 v3.0.1 
@@ -82,8 +82,8 @@ Convert sticker to photo & create sticker pake & find sticker id.....
 To Make Square Logo -  /logosq Your Name
 
 ♻️ Example:
-/logo BETA
-/logosq MKN  """
+/logo NTMBOT
+/logosq NTM  """
 
     YTDL = """<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴</b>
 
@@ -116,7 +116,7 @@ Translate text to speech
 • These commands works on both pm and group.
 • this can translate texts to 200+ languages."""
 
-    SOURCE = """[Github](https://github.com/Itz-JEOL/TG-MULTI-BOT) | [Updates](t.me/beta_botz)
+    SOURCE = """[NTM](https://t.me/llathu63035) | [Updates](t.me/llathu63035)
 ```----------------
 | Contributors |
 ----------------```
