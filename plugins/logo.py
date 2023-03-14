@@ -82,7 +82,7 @@ async def logo_doc(_,query):
     pass
   except Exception as e:
     try:
-      return await x.edit(f"`❌ Something Went Wrong...`\n\nReport This Error In [support group](t.me/beta_support) \n\n`{str(e)}`")
+      return await x.edit(f"`❌ Something Went Wrong...`\n\nReport This Error In [CONTACT](t.me/sula54321) \n\n`{str(e)}`")
     except:
       return
     
