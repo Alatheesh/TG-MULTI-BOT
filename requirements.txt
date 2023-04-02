@@ -4,4 +4,4 @@ telethon
 youtube-search
 youtube-search-python
 yt-dlp
-python-3.10.8
+
